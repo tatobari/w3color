@@ -1,5 +1,6 @@
 {
   "name": "w3color",
+  "version": "0.0.1",
   "main": "w3color.js",
   "authors": [
     "Tato Barilatti <tato@convoy.me>"
