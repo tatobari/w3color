@@ -1,0 +1,21 @@
+{
+  "name": "w3color",
+  "main": "w3color.js",
+  "authors": [
+    "Tato Barilatti <tato@convoy.me>"
+  ],
+  "description": "W3Schools color manipulation library available on GreasyFork.",
+  "keywords": [
+    "color",
+    "converter"
+  ],
+  "license": "MIT",
+  "homepage": "http://github.com/tatobari/w3color",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
