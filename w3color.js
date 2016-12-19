@@ -598,4 +598,6 @@ function w3trim(x) {
 }
 window.w3color = w3color;
 
+return w3color;
+
 })(window);
